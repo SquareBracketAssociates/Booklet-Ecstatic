@@ -1,0 +1,10 @@
+Ectastic is an extension of Pillar to create static web site. 
+This booklet presents how to use Ecstatic to write, generate, version, and also use github pages 
+to manage your personal website. 
+
+Should read and migrate: *https://github.com/samakhov/samakhov.github.io/blob/source/blogs/*
+
+${inputFile:path=Chapters/GettingStarted.pillar}$
+
+${inputFile:path=Chapters/Blogs/Blogs.pillar}$
+
